@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mddn\source\repos\SP_Lab3_1\Source.cpp(25,13): warning C4101: 'pDataArray': unreferenced local variable
+C:\Users\mddn\source\repos\SP_Lab3_1\Source.cpp(136,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SP_Lab3_1.vcxproj -> C:\Users\mddn\source\repos\SP_Lab3_1\x64\Debug\SP_Lab3_1.exe

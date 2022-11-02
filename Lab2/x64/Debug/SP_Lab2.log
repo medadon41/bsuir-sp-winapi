@@ -1,0 +1,5 @@
+﻿  SP_Lab2.cpp
+C:\Users\mddn\source\repos\SP_Lab2\SP_Lab2.cpp(55,1): warning C4002: too many arguments for function-like macro invocation 'CreateWindowW'
+C:\Users\mddn\source\repos\SP_Lab2\SP_Lab2.cpp(70,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\mddn\source\repos\SP_Lab2\SP_Lab2.cpp(104,15): warning C4101: 'n': unreferenced local variable
+  SP_Lab2.vcxproj -> C:\Users\mddn\source\repos\SP_Lab2\x64\Debug\SP_Lab2.exe
