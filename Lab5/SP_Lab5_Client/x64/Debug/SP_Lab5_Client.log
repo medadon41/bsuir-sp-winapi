@@ -1,0 +1,6 @@
+﻿  Client.cpp
+C:\Users\mddn\source\repos\Lab5\SP_Lab5_Client\Client.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'DWORD'
+C:\Users\mddn\source\repos\Lab5\SP_Lab5_Client\Client.cpp(64,1): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\mddn\source\repos\Lab5\SP_Lab5_Client\Client.cpp(12,12): warning C4101: 'szMailslotName': unreferenced local variable
+C:\Users\mddn\source\repos\Lab5\SP_Lab5_Client\Client.cpp(80): warning C4172: returning address of local variable or temporary: result
+  SP_Lab5_Client.vcxproj -> C:\Users\mddn\source\repos\Lab5\x64\Debug\SP_Lab5_Client.exe
